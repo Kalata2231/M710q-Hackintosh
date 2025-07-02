@@ -1,6 +1,6 @@
 # L380 Clover
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa5c1f8e-4101-4290-8275-bb3cde5530f5" alt="L380 EFI" width="600"/>
+  <img src="https://github.com/user-attachments/assets/05d84311-7ec8-4077-a9ec-340f15088546" alt="M710q EFI" width="600"/>
 </p>
 
 
@@ -32,12 +32,7 @@ This EFI is made with Open Core and it works for Sequoia.
 | Memory    | 16GB DDR4 2400Mhz            |
 </details>
 
-<details>
-  <summary>📸 Photos</summary>
-  
-  ![P7010069](https://github.com/user-attachments/assets/5e346b60-59d2-4c5d-bf8d-dd354759a186)
 
-</details>
 
 <details>
   <summary>🔧 Requirements</summary>
@@ -90,11 +85,12 @@ This EFI is made with Open Core and it works for Sequoia.
 | Graphics Accel.     | ✅ Working     | Full acceleration with Intel UHD 520                  |
 | Audio               | ✅ Working     | Internal speakers and headphone jack                  |
 | HDMI                | ✅ Working     | Display output and audio over HDMI                    |
-| Bluetooth           | ✅ Working     | Detected and usable                                   |
 | Lan                 | ✅ Working     | Works fine                                            |
 | USB Ports           | ✅ Working     | All USB-A and USB-C ports function normally           |
-| Sleep               | ❌Not Working  | Works fine with lid close/wake                        |
-| Bluetooth           | 🔲 Not Tested  | Detected and usable                                   |
+| Sleep               | ❌Not Working  | It doesn't wake up from sleep                         |
+| Bluetooth           | 🔲 Not Tested  |  I don't have bluethoot on the machine                     
+
+|
 | iMessage/FaceTime   | 🔲 Not Tested  | I don't have an apple device to test it with          |
 | Wifi                | 🔲 Not Tested  | I don't have wifi on the machine                      |
 | Handoff/Airdrop     | 🔲 Not Tested  | I don't have wifi on the machine                      |
@@ -102,3 +98,4 @@ This EFI is made with Open Core and it works for Sequoia.
 
 # Credits
 Whole repository inpired by MultimediaLucario 
+
