@@ -1,4 +1,4 @@
-# L380 Clover
+# M710q Open Core
 <p align="center">
   <img src="https://github.com/user-attachments/assets/05d84311-7ec8-4077-a9ec-340f15088546" alt="M710q EFI" width="600"/>
 </p>
