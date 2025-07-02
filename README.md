@@ -79,8 +79,8 @@ This EFI is made with Open Core and it works for Sequoia.
 <details>
   <summary>🧩 Compatibility Status</summary>
 
-| Feature             |Status         |Notes                                                |
-|---------------------|----------------|---------------------------------------------------------|
+| Feature             |Status          |Notes                                                  |
+|---------------------|----------------|-------------------------------------------------------|
 | Bootloader (Op Core)| ✅ Working     | Stable boot with Sequoia                              |
 | Graphics Accel.     | ✅ Working     | Full acceleration with Intel UHD 520                  |
 | Audio               | ✅ Working     | Internal speakers and headphone jack                  |
@@ -88,9 +88,7 @@ This EFI is made with Open Core and it works for Sequoia.
 | Lan                 | ✅ Working     | Works fine                                            |
 | USB Ports           | ✅ Working     | All USB-A and USB-C ports function normally           |
 | Sleep               | ❌Not Working  | It doesn't wake up from sleep                         |
-| Bluetooth           | 🔲 Not Tested  |  I don't have bluethoot on the machine                     
-
-|
+| Bluetooth           | 🔲 Not Tested  |  I don't have bluethoot on the machine                |    
 | iMessage/FaceTime   | 🔲 Not Tested  | I don't have an apple device to test it with          |
 | Wifi                | 🔲 Not Tested  | I don't have wifi on the machine                      |
 | Handoff/Airdrop     | 🔲 Not Tested  | I don't have wifi on the machine                      |
