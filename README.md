@@ -37,7 +37,7 @@ This EFI is made with Open Core and it works for Sequoia.
 <details>
   <summary>🔧 Requirements</summary>
 
-  - Lenovo ThinkPad L380  
+  - Lenovo ThinkCentre M710q 
   - 32GB Flash Drive  
   - Windows PC with Python  
   - An internet connection  
